@@ -1,2 +1,2 @@
 # zxpm
-auction on ,line
+auction on line
